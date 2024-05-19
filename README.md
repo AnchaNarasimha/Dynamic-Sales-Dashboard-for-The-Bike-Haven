@@ -17,6 +17,7 @@ Geographical insights to pinpoint market trends and opportunities.
 ### Product Categories vs. Sales Amount: 
 Overview of each category’s performance to focus on high-impact areas.
 
+
 This dashboard will not only incorporate historical sales data but also integrate with current sales trends to forecast future demands more accurately. By doing so, The Bike Haven can optimize their stock levels, tailor marketing strategies to consumer needs, and ultimately enhance profitability. The design will be optimized for various devices, ensuring accessibility whether on a desktop, tablet, or smartphone, thus enhancing the user experience for on-the-go decision-making.
 
 The successful implementation of this dashboard will empower The Bike Haven to streamline their operations, enhance customer satisfaction, and drive business growth in a competitive market. This tool will be indispensable for the management team to keep their fingers on the pulse of the business and react swiftly to market changes.
